@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-[Natours Live Demo](https://nurulloo.github.io/omnifood_portfolio/)
+[OmniFood Live Demo](https://nurulloo.github.io/omnifood_portfolio/)
 
 ## Authors
 
